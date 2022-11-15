@@ -1,0 +1,13 @@
+.first, 
+.second {
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.first {
+    /* several unique declarations */
+}
+
+.second {
+    /* several unique declarations */
+}
